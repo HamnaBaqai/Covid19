@@ -1,5 +1,8 @@
 Graphs are in power bi and tableau files, all files are attached here. Links to all graphs are given below.  A total of 11 visualizations are made which can be accessed on powerbi online 
 
+Python code is in Datacleaning.ipynb.
+9 Cleaned files are in csv format.
+
 **** TO View all graphs, click on a link. Move between pages from bottom left   *******
 
 Link to all graphs are given below:
