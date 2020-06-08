@@ -29,4 +29,7 @@ https://app.powerbi.com/reportEmbed?reportId=378c4af1-65c6-4285-81b1-cb52dcc6612
 https://app.powerbi.com/reportEmbed?reportId=783fad13-0595-46d9-9fd1-656c0cce5b40&autoAuth=true&ctid=75df096c-8b72-48e4-9b91-cbf79d87ee3a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
 
+Link to published Blog
+https://medium.com/@h_b_71234/covid-19-pakistan-rise-in-pandemic-a-critical-analysis-of-march-and-april-d48b2bba83ec
+
 
