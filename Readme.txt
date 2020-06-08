@@ -7,11 +7,8 @@ Python code is in Datacleaning.ipynb.
 
 Link to all graphs are given below:
 
-1 link contains 5 graphs
-2 links have contains 2 graphs, 
-2 link have 1 graph. 
 
-A total of 11 visualization
+A total of 12 visualization
 
 1.   
 https://app.powerbi.com/reportEmbed?reportId=636285ad-5807-43e9-b3ca-ceaa5c3b101f&autoAuth=true&ctid=75df096c-8b72-48e4-9b91-cbf79d87ee3a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
@@ -27,4 +24,9 @@ https://public.tableau.com/views/2_15894858044050/Sheet1?:display_count=y&:origi
 
 5.
 https://app.powerbi.com/reportEmbed?reportId=378c4af1-65c6-4285-81b1-cb52dcc6612b&autoAuth=true&ctid=75df096c-8b72-48e4-9b91-cbf79d87ee3a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+
+6.
+https://app.powerbi.com/reportEmbed?reportId=783fad13-0595-46d9-9fd1-656c0cce5b40&autoAuth=true&ctid=75df096c-8b72-48e4-9b91-cbf79d87ee3a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+
+
 
